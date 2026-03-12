@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "メーデー",
+  "base_artist": "Aqu3ra",
+  "createdAt": "2026-03-12T12:03:37.986226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メーデー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/01_メーデー_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メーデー - Mayday",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_メーデー_-_Mayday_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "メーデー",
+      "artist": "PASSEPIED",
+      "has_synced": true,
+      "path": "select/03_メーデー_PASSEPIED.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メーデー (BUMP OF CHICKEN TOUR ホームシック衛星2024 at ARIAKE ARENA - DAY2 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/04_メーデー_(BUMP_OF_CHICKEN_TOUR_ホームシック衛星2024_at_ARIAKE_ARENA_-_DAY2_-)_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "メーデー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/05_メーデー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メーデー",
+      "artist": "Aqu3ra",
+      "has_synced": false,
+      "path": "select/pl_01_メーデー_Aqu3ra.txt"
+    }
+  ]
+}
